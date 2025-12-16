@@ -1,0 +1,9 @@
+requests
+customtkinter
+Pillow
+psutil
+pyperclip
+pyinstaller
+watchdog
+pywin32
+winshell

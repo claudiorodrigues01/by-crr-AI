@@ -1,0 +1,8 @@
+{
+  "sistema": "By-CRR Solucoes em Tecnologia AI",
+  "versao": "1.0.0",
+  "instalado_em": "2025-11-08 00:07:42",
+  "python_path": "C:\\Python313\\python.exe",
+  "ollama_url": "http://localhost:11434/api/chat",
+  "llm_model": "phi4:latest"
+}
