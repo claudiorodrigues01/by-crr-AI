@@ -1,6 +1,6 @@
 # By-CRR Soluções em Tecnologia AI - Assistente de IA com Ollama
 
-Um assistente de inteligência artificial autônomo que utiliza Ollama para processamento local de linguagem natural. Por padrão, o aplicativo utiliza o modelo `phi4` (quando disponível no Ollama). Caso não esteja disponível, faz fallback para `phi3`.
+Um assistente de inteligência artificial autônomo que utiliza Ollama para processamento local de linguagem natural. Por padrão, o aplicativo utiliza o modelo `phi4` (quando disponível no Ollama). Caso não esteja disponível, faz fallback para `phi3`. Sistema foi experimentado usando dados publicos de empresa de saneamento e do SUS para explorar capacidade de respostas e possivel aplicação em empresas do ramo de saneamento e saude pública
 
 ## 🚀 Instalação
 
